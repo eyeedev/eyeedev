@@ -34,13 +34,6 @@ Here are some of my projects:
 
 ---
 
-## 📈 GitHub Stats
-![Aida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyeedev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyeedev&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyeedev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eyeedev)
