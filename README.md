@@ -3,6 +3,7 @@
  Frontend Developer 
   
 🚀 Always learning and experimenting with new tech
+reach me aydaaheidari@gmail.com
 
 ---
 
@@ -43,7 +44,7 @@ Here are some of my projects:
   <!-- Vite -->
   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
   <!-- Bun -->
-  <img src="https://raw.githubusercontent.com/oven-sh/bun/main/assets/logo-bun-dark.svg" alt="bun" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bun.svg" alt="bun" width="40" height="40"/>
   <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
