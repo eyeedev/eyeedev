@@ -21,8 +21,6 @@ Here are some of my projects:
 
 ## Skills
 
-## 🛠️ Skills
-
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
