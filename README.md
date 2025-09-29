@@ -10,8 +10,8 @@
 Here are some of my projects:
 
 - [100DaysOfCode](https://github.com/eyeedev/100DaysOfCode) - Daily coding challenges & experiments  
-- [Analog Clock](https://github.com/eyeedev/AnalogClock) - Responsive analog clock with JavaScript  
-- [Flip Card Game](https://github.com/eyeedev/FlipCardGame) - Fun interactive memory game  
+- [Commentive](https://github.com/eyeedev/Commentive) - Social media feed app using REDUX
+ 
 
 *(More projects in my repositories…)*
 
